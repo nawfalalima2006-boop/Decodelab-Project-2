@@ -2,8 +2,6 @@
 
 ## 📌 Project Overview
 
-This project was completed as **Project 2** of the **DecodeLabs Data Science Internship**.
-
 The objective is to build a supervised machine learning pipeline to detect fraudulent credit card transactions. Since fraud datasets are highly imbalanced, the project uses **SMOTE (Synthetic Minority Over-sampling Technique)** to balance the training data and improve model performance.
 
 ---

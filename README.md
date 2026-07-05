@@ -1,12 +1,12 @@
 # 💳 Credit Card Fraud Detection using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 The objective is to build a supervised machine learning pipeline to detect fraudulent credit card transactions. Since fraud datasets are highly imbalanced, the project uses **SMOTE (Synthetic Minority Over-sampling Technique)** to balance the training data and improve model performance.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Detect fraudulent credit card transactions.
 - Handle class imbalance using SMOTE.
@@ -16,7 +16,7 @@ The objective is to build a supervised machine learning pipeline to detect fraud
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -38,7 +38,7 @@ The objective is to build a supervised machine learning pipeline to detect fraud
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
 1. Import libraries
 2. Load the dataset
@@ -78,7 +78,7 @@ The objective is to build a supervised machine learning pipeline to detect fraud
 ---
 
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open `Project2.ipynb` in Google Colab or Jupyter Notebook.
 2. Upload `creditcard.csv`.
@@ -87,7 +87,7 @@ The objective is to build a supervised machine learning pipeline to detect fraud
 
 ---
 
-## 📚 Key Learning Outcomes
+##  Key Learning Outcomes
 
 - Supervised Machine Learning
 - Fraud Detection
@@ -102,7 +102,7 @@ The objective is to build a supervised machine learning pipeline to detect fraud
 
 ---
 
-## 🎓 Internship
+##  Internship
 
 **DecodeLabs – Data Science Internship**
 
@@ -110,4 +110,4 @@ Project 2: **Fraud Detection Pipeline**
 
 ---
 
-⭐ Thank you for visiting this repository! Feel free to explore the project and share your feedback.
+ Thank you for visiting this repository! Feel free to explore the project and share your feedback.
